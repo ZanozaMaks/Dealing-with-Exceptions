@@ -3,7 +3,7 @@ import java.util.regex.Pattern;
 
 public class Main {
 
-    public static final String REQUIREMENTS = "Логин и пароль должны содержать латинские буквы, цифры и нижнее подчёркивание";
+    public static final String REQUIREMENTS = "Логин и пароль могут содержать латинские буквы, цифры и нижнее подчёркивание";
     public static void main(String[] args) {
 
         String login = "User125";
